@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="512" height="512" rx="128" fill="#1E293B"/>
+    <path d="M384 176C384 167.2 376.8 160 368 160H352C352 124.8 339.2 92.8 316.8 70.4C294.4 48 262.4 35.2 227.2 35.2C192 35.2 160 48 137.6 70.4C115.2 92.8 102.4 124.8 102.4 160H86.4C77.6 160 70.4 167.2 70.4 176L54.4 432C54.4 440.8 57.6 448 64 454.4C70.4 460.8 80 464 86.4 464H368C376.8 464 384 460.8 390.4 454.4C396.8 448 400 440.8 400 432L384 176ZM227.2 67.2C252.8 67.2 275.2 76.8 291.2 92.8C307.2 108.8 316.8 131.2 316.8 156.8H137.6C137.6 131.2 147.2 108.8 163.2 92.8C179.2 76.8 201.6 67.2 227.2 67.2ZM352 432H86.4L102.4 192H128V240C128 248.8 134.4 256 144 256C153.6 256 160 248.8 160 240V192H294.4V240C294.4 248.8 300.8 256 310.4 256C320 256 326.4 248.8 326.4 240V192H352L368 432Z" fill="url(#gradient)"/>
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#8B5CF6"/>
+            <stop offset="50%" style="stop-color:#D946EF"/>
+            <stop offset="100%" style="stop-color:#EC4899"/>
+        </linearGradient>
+    </defs>
+    <text x="256" y="512" text-anchor="middle" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="#60A5FA">ECommerce</text>
+</svg>
